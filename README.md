@@ -1,5 +1,5 @@
 # Documentation
 Sampling techniques
 <br>
-Creator - Sumit Malakar
+Creator - Sumit Malakar(Student)
 
